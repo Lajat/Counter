@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  padding: 16px;
+  margin: 16px;
+}
